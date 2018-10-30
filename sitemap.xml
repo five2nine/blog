@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://five2nine.github.io/blog/tricontour-matlab/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://five2nine.github.io/blog/matlab-dlmwrite/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://five2nine.github.io/blog/scatter-matlab/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://five2nine.github.io/blog/scatter-python/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://five2nine.github.io/blog/anaconda-not-working/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://five2nine.github.io/blog/scatter-labview/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://five2nine.github.io/blog/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://five2nine.github.io/blog/tags/matlab/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://five2nine.github.io/blog/tags/tricontour/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://five2nine.github.io/blog/tags/geometry/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://five2nine.github.io/blog/tags/iostream/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://five2nine.github.io/blog/tags/scatter/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://five2nine.github.io/blog/tags/anaconda/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://five2nine.github.io/blog/tags/python/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://five2nine.github.io/blog/tags/error/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://five2nine.github.io/blog/tags/labview/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://five2nine.github.io/blog/tags/3-d/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://five2nine.github.io/blog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://five2nine.github.io/blog/search/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://five2nine.github.io/tricontour-matlab/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://five2nine.github.io/matlab-dlmwrite/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://five2nine.github.io/scatter-matlab/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://five2nine.github.io/scatter-python/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://five2nine.github.io/anaconda-not-working/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://five2nine.github.io/scatter-labview/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://five2nine.github.io/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://five2nine.github.io/tags/matlab/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://five2nine.github.io/tags/tricontour/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://five2nine.github.io/tags/geometry/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://five2nine.github.io/tags/iostream/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://five2nine.github.io/tags/scatter/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://five2nine.github.io/tags/anaconda/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://five2nine.github.io/tags/python/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://five2nine.github.io/tags/error/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://five2nine.github.io/tags/labview/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://five2nine.github.io/tags/3-d/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://five2nine.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://five2nine.github.io/search/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
